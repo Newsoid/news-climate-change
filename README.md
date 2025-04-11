@@ -1,7 +1,7 @@
 ## 📊 Dataset Description
-News articles containing information about significant change in measures of climate
 
 Each dataset is provided in **JSON format** and includes a structured list of news articles.
+Keywords used for search: 'crypto', 'coin', 'blockchain', 'bitcoin', 'ethereum', web3', 'defi', 'dapp', 'metaverse'
 
 
 ### Top-Level Fields
@@ -32,3 +32,9 @@ Each dataset is provided in **JSON format** and includes a structured list of ne
 
 - **`summary`** (`string`):  
   A short summary or excerpt from the article content.
+
+---
+
+Looking for a custom feed on any topic, time range, or with full article content? 
+👉 [Contact us](https://www.newsoid.io/)
+
