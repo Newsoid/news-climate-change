@@ -1,7 +1,7 @@
 ## 📊 Dataset Description
 
 Each dataset is provided in **JSON format** and includes a structured list of news articles.
-Keywords used for search: 'crypto', 'coin', 'blockchain', 'bitcoin', 'ethereum', web3', 'defi', 'dapp', 'metaverse'
+Keywords used for search: 'esg', 'climate change', 'climate', 'pollution'
 
 
 ### Top-Level Fields
