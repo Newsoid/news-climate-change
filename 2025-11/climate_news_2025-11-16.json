@@ -1,0 +1,56 @@
+{
+    "status": "ok",
+    "total_articles": 5,
+    "articles": [
+        {
+            "published_date": "2025-11-16T00:00:00",
+            "title": "World Insights: Melting Arctic fuels shipping surge, heightening safety risks",
+            "author": "Source: Xinhua",
+            "url": "https://english.news.cn/20251116/a6b0d3d308b54c94b100b07c37551dd3/c.html",
+            "url_media": "https://english.news.cn/20251116/a6b0d3d308b54c94b100b07c37551dd3/zxcode_20251116a6b0d3d308b54c94b100b07c37551dd3.jpg",
+            "country": "CN",
+            "language": "en",
+            "summary": "The dramatic retreat of Arctic ice is opening new shipping routes, but it also raises safety concerns. Scientists are accelerating research and technology to help protect vessels, crews, and communities from hazardous ice, icebergs, and shifting Arctic conditions. The number of ships entering the Arctic region increased by 37 percent from 2013 to 2023."
+        },
+        {
+            "published_date": "2025-11-16T00:00:00",
+            "title": "Migrating Canada geese pictured at Berczy Park North in Canada",
+            "author": "新华网",
+            "url": "https://english.news.cn/20251116/623c6614aba9498fa47bb981251bc425/c.html",
+            "url_media": "https://english.news.cn/20251116/623c6614aba9498fa47bb981251bc425/20251116623c6614aba9498fa47bb981251bc425_20251116bb7dd2564bab4365ad4263cc2b3c6bed.jpg",
+            "country": "CN",
+            "language": "en",
+            "summary": "Canada geese are migrating to the east coast of the United States. They are pictured at Berczy Park North in Markham, Ontario, Canada, on Nov. 14, 2025, by Yang Shu/Xinhua.      "
+        },
+        {
+            "published_date": "2025-11-16T00:00:00",
+            "title": "No boats damaged after sea surge in TN's Pudukudi: Fisheries department",
+            "author": "Express News Service",
+            "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Nov/16/no-boats-damaged-after-sea-surge-in-tns-pudukudi-fisheries-department",
+            "url_media": "https://media.newindianexpress.com/newindianexpress%2F2025-11-16%2Fxclhthpe%2FRough-seas.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "country": "IN",
+            "language": "en",
+            "summary": "A sea surge sent waves nearly 60m into Pudukudi, a coastal hamlet near Thondi on Friday. Fisheries officials confirmed that no boats or gear had been damaged in the incident. The fisheries department has temporarily barred fishers from venturing into the sea along the Ramanathapuram coastline."
+        },
+        {
+            "published_date": "2025-11-16T00:00:00",
+            "title": "Biodiversity offsets failed to protect habitat in NSW. Now federal Labor is about to make the same mistakes, critics warn",
+            "author": "The Observer",
+            "url": "https://article.wn.com/view/2025/11/16/Biodiversity_offsets_failed_to_protect_habitat_in_NSW_Now_fe",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The federal government risks repeating mistakes made in NSW with its proposals to change the way developers compensate for damage to the environment, scientists and legal experts have warned. Labor's plan to overhaul biodiversity offsets and nature laws is evidence of the problems, according to the experts. "
+        },
+        {
+            "published_date": "2025-11-16T00:00:00",
+            "title": "Penny Wong's blunt warning to Coalition over surprise climate change backflip",
+            "author": "The Daily Mail",
+            "url": "https://article.wn.com/view/2025/11/16/Penny_Wongs_blunt_warning_to_Coalition_over_surprise_climate",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Penny Wong is Australia's first climate change minister. She believes the Coalition's decision to abandon net zero carbon emissions targets will do little to shift public opinion.    for the public opinion on climate change is not likely to change any time soon. "
+        }
+    ]
+}
